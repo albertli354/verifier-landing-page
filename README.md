@@ -1,6 +1,6 @@
 ## Welcome to the Election Guard Verifier
 
-## Why should you care about the cerifier?
+## Why should you care election security?
 
 ## A look under the hood
 

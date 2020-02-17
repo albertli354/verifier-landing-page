@@ -2,13 +2,21 @@
 
 ElectionGuard is an open source codebase that enables a secure and verifiable voting system. Learn more how you can secure and keep track your vote today. 
 
-## Why should you care election security?
+## Why ElectionGuard?
+
 
 ## A look under the hood
 
+
 ## Team members
+- Xiang Li
+- Hansol Trapp
+- Ajay Qi
+- Nicola Kalderash
+
 
 ## Sponsor information
-
+This project is sponsored by Microsoft Research. 
+Supervised by Josh Benaloh.
 ## Contact info
-
+Please email xl52@uw.edu for more info.

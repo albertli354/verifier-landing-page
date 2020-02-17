@@ -5,6 +5,8 @@ ElectionGuard is an open source codebase that enables a secure and verifiable vo
 ## Why ElectionGuard?
 - Pormote secure voting.
 Reduce risk by butting out middle men and adding cryptographic security. 
+- Verfiy Electin Results
+Be able to audit the election yourself to have trust that your vote was counted correctly.
 
 ## A look under the hood
 

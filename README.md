@@ -1,3 +1,4 @@
+![A look at the sample data](https://raw.githubusercontent.com/albertli354/verifier-landing-page/master/re_ElectionGuard-Photo-)Option-2.jpg
 ## Welcome to the Election Guard Verifier
 
 ElectionGuard is an open source codebase that enables a secure and verifiable voting system. Learn more how you can secure and keep track your vote today. 

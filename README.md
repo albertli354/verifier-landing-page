@@ -13,9 +13,9 @@ Learn more about the system and allow more people to be more knowledgeable about
 Democracy relies on a strong voting system to give power to its individuals. ElectionGuard is here to empower the indivdual.
 
 ## A look under the hood
-Inline-style: 
-![alt text]("code snippet ballot top.PNG")
-![Image description](https://raw.githubusercontent.com/albertli354/verifier-landing-page/master/code%20snippet%20ballot%20top.PNG)
+
+
+![A look at the sample data](https://raw.githubusercontent.com/albertli354/verifier-landing-page/master/code%20snippet%20ballot%20top.PNG)
 
 ## Team members
 - Xiang Li

@@ -14,7 +14,7 @@ Democracy relies on a strong voting system to give power to its individuals. Ele
 
 ## A look under the hood
 Inline-style: 
-![alt text]("code snippet ballot top.PNG)
+![alt text]("code snippet ballot top.PNG")
 
 
 ## Team members
